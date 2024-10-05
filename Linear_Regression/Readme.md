@@ -16,6 +16,7 @@ The House Prediction Model is a machine learning project designed to predict hou
 
 ## Dataset
 You can download the dataset from the following link:
+https://github.com/Deep-cx-01/Basic_ML/blob/main/Linear_Regression/california_housing_test.csv
 
 ## Features
 
