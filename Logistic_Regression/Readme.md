@@ -16,6 +16,7 @@ The Diabetic Prediction Model is a machine learning project designed to predict 
 
 ## Dataset 
 link to the dataset is :
+https://github.com/Deep-cx-01/Basic_ML/blob/main/Logistic_Regression/diabetes.csv
 
 
 ## Features
