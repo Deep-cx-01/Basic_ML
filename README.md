@@ -1,9 +1,10 @@
 # Basic Machine Learning Projects
 
-This repository contains two basic machine learning projects implemented in Python:
+This repository contains three basic machine learning projects implemented in Python:
 
 1. **Housing Prediction** (Linear Regression)
 2. **Diabetic Regression** (Logistic Regression)
+3. **PCA (Principal Component Analysis)**
 
 ## Table of Contents
 
@@ -14,6 +15,10 @@ This repository contains two basic machine learning projects implemented in Pyth
 - [Project 2: Diabetic Regression](#project-2-diabetic-regression)
   - [Description](#description-1)
   - [Link](#link-1)
+
+- [Project 3: PCA (Principal Component Analysis)](#project-3-pca-principal-component-analysis)
+  - [Description](#description-2)
+  - [Link](#link-2)
 
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
@@ -36,6 +41,14 @@ The Diabetic Regression project implements logistic regression to predict whethe
 
 ### Link
 [Diabetic Regression Repository](https://github.com/Deep-cx-01/Basic_ML/tree/main/Logistic_Regression)
+
+## Project 3: PCA (Principal Component Analysis)
+
+### Description
+The Diabetic Prediction using PCA project applies Principal Component Analysis (PCA) to preprocess data and enhance the prediction of diabetes based on various health attributes. This project demonstrates how dimensionality reduction can improve model performance and visualization in addressing a critical health issue.
+
+### Link
+[PCA Repository](https://github.com/Deep-cx-01/diabetic-prediction-pca)
 
 ## Evaluation
 The model's performance can be evaluated using metrics such as:
