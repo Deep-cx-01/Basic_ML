@@ -48,7 +48,7 @@ The Diabetic Regression project implements logistic regression to predict whethe
 The Diabetic Prediction using PCA project applies Principal Component Analysis (PCA) to preprocess data and enhance the prediction of diabetes based on various health attributes. This project demonstrates how dimensionality reduction can improve model performance and visualization in addressing a critical health issue.
 
 ### Link
-[PCA Repository](https://github.com/Deep-cx-01/diabetic-prediction-pca)
+[PCA Repository](https://github.com/Deep-cx-01/Basic_ML/tree/main/PCA)
 
 ## Evaluation
 The model's performance can be evaluated using metrics such as:
