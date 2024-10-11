@@ -1,11 +1,12 @@
-PCA (Principal Component Analysis)
+# PCA (Principal Component Analysis)
+
 ## 📊 Overview
 
 This project applies Principal Component Analysis (PCA) to a dataset for predicting diabetes. By reducing dimensionality, PCA enhances data visualization and model performance, minimizing noise and improving interpretability.
 
 ## 📂 Dataset
 
-The dataset used in this project is the  It contains various health and demographic features relevant to diabetes prediction.
+The dataset used in this project is the [diabetes dataset](https://github.com/Deep-cx-01/Basic_ML/blob/main/PCA/diabetes.csv). It contains various health and demographic features relevant to diabetes prediction.
 
 ### 🧬 Features
 
@@ -24,4 +25,5 @@ The dataset used in this project is the  It contains various health and demograp
 To set up the project, ensure you have Python 3.x installed. Then, clone the repository and install the required libraries:
 
 ```bash
-git clone https://github.com/Deep-cx-01/PCA (Diabetic Dataset).git
+git clone https://github.com/Deep-cx-01/diabetic-prediction-pca.git
+cd diabetic-prediction-pca
